@@ -1,0 +1,25 @@
+{
+  "name": "react-easy-scroll",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hejiaji/react-easy-scroll.git"
+  },
+  "keywords": [
+    "scroll"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hejiaji/react-easy-scroll/issues"
+  },
+  "homepage": "https://github.com/hejiaji/react-easy-scroll#readme",
+  "devDependencies": {
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
+  }
+}
